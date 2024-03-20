@@ -1,0 +1,4 @@
+iso,node,curve,season,blocks,bin_start,bin_end,value,category
+ercot,HB_NORTH,nonspin,winter,wkdy_pk,-1000.0,0.1,0.72,winter_wkdy_pk
+ercot,HB_NORTH,nonspin,winter,wkdy_pk,0.1,0.2,0.72,winter_wkdy_pk
+ercot,HB_NORTH,nonspin,winter,wkdy_pk,0.2,0.3,0.72,winter_wkdy_pk
